@@ -7,8 +7,8 @@ This platform is going to be the most loved by the film-makers and viewers, we i
 This is a web application and technologies used are HTML,CSS,JS,PHP. The database used is MySQL.
 Database used :MySQL
 # Features
--Home Page : Engage with captivating Main Content and stay updated with the Latest Movies.
--Genre Page : Explore movies categorized based on diverse genres, tailoring your viewing experience to your preferences.
+- Home Page : Engage with captivating Main Content and stay updated with the Latest Movies.
+- Genre Page : Explore movies categorized based on diverse genres, tailoring your viewing experience to your preferences.
 -Language Page : Immerse yourself in a multilingual cinematic journey, with movies classified based on language for a culturally rich experience.
 -Upload Page : Contribute to the community by uploading your own content, sharing your unique perspective and expanding the ESTRELLA library.
 -Search Page : Effortlessly find movies within our extensive database using the intuitive Search Page, ensuring you quickly locate your favorites.
