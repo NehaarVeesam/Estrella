@@ -1,0 +1,242 @@
+.estr{
+    min-height: 95vh;
+    width: 100%;
+    background-color: #000000;
+    background-image:url('images/AdobeStock_486220457.jpeg') ;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.bg-2{
+    min-height: 100vh;
+    width: 100%;
+    background-color: #000000;
+    background-image:url('images/AdobeStock_378007834.jpeg') ;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.tex2{
+    width: 100%;
+    color: #fff;
+    position: absolute;
+    top: 42%;
+    left: 20%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
+.tex2 h1{
+    font-size: 100px;
+    font-weight: 600;
+    line-height: 100px;
+    color: #fff;    
+}
+.tex2 p{
+    padding-left: 10%;
+    font-size: 24px;
+}
+.bg-3{
+    min-height: 100vh;
+    width: 100%;
+    background-color: #000000;
+    background-image:url('images/AdobeStock_481682655.jpeg') ;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.tex3{
+    position: absolute;
+    float: right;
+    width: 100%;
+    color: #fff;
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    transform: translate(-50%,-50%);
+    text-align: right;
+}
+.tex3 h1{
+    font-size: 65px;
+    font-weight: 600;
+    line-height: 100px;
+    color: #fff;    
+}
+.tex3 p{
+    padding-left: 8%;
+    font-size: 35px;
+}
+.tex3 .mainb{
+    padding-left: 8%;
+    font-size: 20px;
+}
+.tex3 .btn {
+    color: #ffffff;
+    padding: 0.25rem 1.5rem;
+    text-transform: uppercase;
+    font-size: 1.25rem;
+    font-weight: 700;
+    display: inline-flex;
+    position: relative;
+    align-items: center;
+}
+
+.tex3 .btn-hover::before {
+    z-index: 1;
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 100%;
+    background-color: var(--main-color);
+    transition: 0.3s ease-in-out;
+}
+
+.bg-4{
+    min-height: 100vh;
+    width: 100%;
+    background-color: #000000;
+    background-image:url('images/AdobeStock_297320017.jpeg') ;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.tex4{
+    position: absolute;
+    float: right;
+    width: 100%;
+    color: #fff;
+    position: absolute;
+    top: 50%;
+    left: 45%;
+    transform: translate(-50%,-50%);
+    text-align: right;
+}
+.tex4 h1{
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 100px;
+    color: #fff;    
+}
+.tex4 p{
+    padding-right: 8%;
+    font-size: 30px;
+}
+.tex4 .btn {
+    color: #ffffff;
+    padding: 0.35rem 1.75rem;
+    text-transform: uppercase;
+    font-size: 1.25rem;
+    font-weight: 700;
+    display: inline-flex;
+    position: relative;
+    align-items: center;
+    right: 15%;
+}
+
+.tex4 .btn-hover::before {
+    z-index: 1;
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 100%;
+    background-color: var(--main-color);
+    transition: 0.3s ease-in-out;
+}
+.bg-5{
+    min-height: 120vh;
+    width: 100%;
+    background-image: url('images/AdobeStock_368779760.jpeg') ;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    /* filter: blur(px); */
+}
+.tex5{
+    width: 100%;
+    color: #fff;
+    position: absolute;
+    top: 56%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
+.tex5 p{
+    font-size: 38px;
+    font-weight: 500;
+}
+.tex5 h1{
+    font-size: 162px;
+    font-weight: 600;
+    line-height: 160px;
+    color: transparent;
+    -webkit-text-stroke: 2px var(--main-color); 
+     background: url("images/back.png");
+    -webkit-background-clip: text;
+    background-position: 0 0;
+    animation: back 20s linear infinite;
+}
+@keyframes back{
+    100%{
+        background-position: 2000px 0;
+    }
+}
+.tex5 .btn {
+    color: #ffffff;
+    padding: 0.35rem 1.75rem;
+    text-transform: uppercase;
+    font-size: 1.25rem;
+    font-weight: 700;
+    display: inline-flex;
+    position: relative;
+    align-items: center;
+}
+.bg-5 .tex5 .btn-hover::before {
+    z-index: 1;
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 100%;
+    background-color: var(--main-color);
+    transition: 0.3s ease-in-out;
+}
+.bg-5 .tex5 .btn-hover:hover::before {
+    width: 100%;
+}
+
+.tex{
+    width: 100%;
+    color: #fff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
+.tex h1{
+    font-size: 162px;
+    font-weight: 600;
+    line-height: 160px;
+    color: transparent;
+    -webkit-text-stroke: 2px var(--main-color);
+    background: url("images/back.png");
+    -webkit-background-clip: text;
+    background-position: 0 0;
+    animation: back 20s linear infinite;
+}
+@keyframes back{
+    100%{
+        background-position: 2000px 0;
+    }
+}
+.tex h2{
+    font-size: 30px;
+    font-weight: 500;
+    padding-bottom: 10%;
+}
+
+
