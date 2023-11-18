@@ -4,8 +4,8 @@ Estrella means a Star that Shines over period lighting up opportunities for inde
 This platform is going to be the most loved by the film-makers and viewers, we intend to keep no creative restrictions over the maker’s work and let our viewers enjoy cinema to its extent.
 
 # Description 
-This is a web application and technologies used are HTML,CSS,JS,PHP. The database used is MySQL.
-Database used :MySQL
+ESTRELLA is a dynamic web application that redefines the online cinematic experience, employing a seamless integration of HTML, CSS, and JavaScript to create an engaging user interface. The backbone of this platform is powered by PHP, facilitating robust functionality and efficient server-side processing. MySQL serves as the chosen database, contributing to the storage, retrieval, and management of the extensive movie catalog. 
+
 # Features
 - Home Page : Engage with captivating Main Content and stay updated with the Latest Movies.
   
